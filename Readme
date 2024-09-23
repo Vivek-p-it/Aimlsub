@@ -1,1 +1,15 @@
-The code file of the solution.
+Dependencies:
+
+requests
+BeautifulSoup
+pandas
+numpy
+scikit-learn
+statsmodels
+
+Instructions:
+
+Install the required dependencies using pip install -r requirements.txt.
+Replace the Hash_ID, HAsh_API, Telegram Channel Name
+Run the script.
+Give your phone number with country code.
